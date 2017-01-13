@@ -1,4 +1,4 @@
 Title: About Me
 ShowInNavbar: true
 ---
-I'm awesome!
+Work under progress. Will be updated soon!
